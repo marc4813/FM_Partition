@@ -1,6 +1,7 @@
 # **FM Partitioning Algorithm**
 
-<sub>This repository contains a Python script implementing the Fiduccia–Mattheyses (FM) partitioning method for hypergraphs.</sub>
+<sub>This repository contains a Python script implementing the Fiduccia–Mattheyses (FM) partitioning method for hypergraphs.
+Benchmark files were found at: https://github.com/TILOS-AI-Institute/HypergraphPartitioning/tree/main</sub>
 
 ---
 
